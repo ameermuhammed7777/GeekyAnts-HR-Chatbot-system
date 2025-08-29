@@ -26,7 +26,8 @@ requirements.txt : Project dependencies
 
 
 # 1. Clone the repository  
-git clone https://github.com/ameermuhammed7777/geekyants-hr-chatbot-system.git
+gitclonehttps://github.com/ameermuhammed7777/geekyants-hr-chatbot-system.git
+
 cd ameermuhammed7777-geekyants-hr-chatbot-system
 
 
