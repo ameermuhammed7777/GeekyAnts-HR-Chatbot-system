@@ -1,0 +1,4 @@
+sentence-transformers==5.1.0
+streamlit==1.49.0
+fastapi==0.116.1
+google-generativeai==0.8.5

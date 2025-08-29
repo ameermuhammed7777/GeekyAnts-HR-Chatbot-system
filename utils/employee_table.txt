@@ -1,0 +1,89 @@
+Employee: Ameer Muhammed
+Skills: Python, LLMs, Docker, Streamlit
+Experience Years: 2.2
+Past Projects: RAG Chatbot, Deployment Pipelines
+Availability: Immediate
+---
+Employee: Shijo Thomas
+Skills: React, Node.js, AWS
+Experience Years: 5
+Past Projects: E-commerce platform, Cloud migration
+Availability: 2 months notice
+---
+Employee: Sarah 
+Skills: Data Science, NLP, PyTorch
+Experience Years: 4
+Past Projects: Sentiment analysis, Recommendation system
+Availability: Immediate
+---
+Employee: Rajesh Kumar
+Skills: Java, Spring Boot, MySQL
+Experience Years: 6
+Past Projects: Banking application, Microservices architecture
+Availability: 1 month notice
+---
+Employee: Nooh Ali
+Skills: UI/UX Design, Figma, Adobe XD
+Experience Years: 2
+Past Projects: Mobile app redesign, SaaS dashboard
+Availability: Immediate
+---
+Employee: Ahmed Ali
+Skills: Machine Learning, TensorFlow, MLOps
+Experience Years: 5
+Past Projects: Fraud detection, Predictive maintenance
+Availability: Immediate
+---
+Employee: Maria
+Skills: Python, Airflow, Snowflake, ETL
+Experience Years: 7
+Past Projects: Data warehouse migration, ETL automation
+Availability: 3 months notice
+---
+Employee: Yaseen
+Skills: Kubernetes, Docker, AWS, CI/CD
+Experience Years: 8
+Past Projects: Cloud infrastructure automation, DevOps pipelines
+Availability: 1 month notice
+---
+Employee: Priya Sharma
+Skills: NLP, Hugging Face, Transformers
+Experience Years: 3
+Past Projects: Chatbot development, Multilingual search engine
+Availability: Immediate
+---
+Employee: Michael
+Skills: C++, Embedded Systems, IoT
+Experience Years: 10
+Past Projects: Smart home devices, Automotive control systems
+Availability: 2 months notice
+---
+Employee: Anna
+Skills: QA Testing, Selenium, Cypress
+Experience Years: 4
+Past Projects: E-commerce testing, Mobile app automation
+Availability: Immediate
+---
+Employee: David
+Skills: Golang, Microservices, PostgreSQL
+Experience Years: 6
+Past Projects: Payment gateway, Scalable APIs
+Availability: 1 month notice
+---
+Employee: Fathima
+Skills: Python, Pandas, Power BI
+Experience Years: 3
+Past Projects: Sales analytics dashboard, Financial reporting
+Availability: Immediate
+---
+Employee: James Wilson
+Skills: Cybersecurity, Penetration Testing, Splunk
+Experience Years: 9
+Past Projects: Threat detection system, Security audits
+Availability: 2 months notice
+---
+Employee: Sophie
+Skills: Swift, iOS Development, Firebase
+Experience Years: 4
+Past Projects: Fitness tracking app, Food delivery app
+Availability: Immediate
