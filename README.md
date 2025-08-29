@@ -11,6 +11,9 @@ Directory structure:
         └── requirements.txt
 
 
+        
+
+
 stmlit.py : Streamlit app (main entry point for chatbot UI
 backend_functions.py : Core backend logic and utility functions
 model.py : FastAPI service for embeddings using 'all-MiniLM-L6-v2'
