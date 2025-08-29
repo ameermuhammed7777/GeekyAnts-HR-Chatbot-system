@@ -12,18 +12,6 @@ Directory structure:
 
 
 
-
-ameermuhammed7777-geekyants-hr-chatbot-system/
-├── backend_functions.py       # Core backend logic and utilities
-├── model.py                   # FastAPI service for embeddings
-├── stmlit.py                  # Streamlit app (UI entry point)
-└── utils/
-    ├── employee_table.txt      # Sample employee data
-    ├── employees.yaml          # Employee dataset in YAML format
-    └── requirements.txt        # Project dependencies
-
-
-
         
 
 
