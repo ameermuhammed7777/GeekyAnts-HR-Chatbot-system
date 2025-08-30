@@ -21,7 +21,7 @@ class functionality:
             data =f.read()
         for doc in data.split("---"):
             doc = doc.strip()
-            if doc:   # only add if not empty
+            if doc:
                 self.docs.append(doc)
         print("[LOG] Text Loading Completed")
         return self.docs
