@@ -29,7 +29,6 @@ class functionality:
     
 
     def build_faiss_index(self, _docs):
-        """Convert documents to embeddings and build FAISS index"""
         embeddings = []
         for doc in _docs:
             response = requests.post("http://localhost:9999/embed", json={"text": [doc]}).json()
