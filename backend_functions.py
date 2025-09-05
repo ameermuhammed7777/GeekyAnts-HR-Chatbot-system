@@ -56,7 +56,9 @@ class functionality:
     
 
     def QandA(self,user_query,matched_docs):
-        prompt = f"""You are an HR assistant. The user asked: "{user_query}".
+        prompt = f"""
+        <|start_header_id|>system<|end_header_id|>
+        You are an HR assistant. The user asked: "{user_query}".
 
                         Your task:
                         - Use only the relevant information from the context (ignore unrelated details).
@@ -79,9 +81,13 @@ class functionality:
 
                         Do not produce answers from the example given in case the particular field is not found.
                         Now answer the current query accurately using the given context.
+                        <|eot_id|>
+                        <|start_header_id|>user<|end_header_id|>
 
                         context: 
                         {matched_docs}
+                        <|eot_id|>
+                        <|start_header_id|>assistant<|end_header_id|>
                         """
         
         genai.configure(api_key=Geminii_API_Key)
